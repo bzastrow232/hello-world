@@ -1,2 +1,2 @@
 # hello-world
-TESTING HELLO WORLD REPOSITORY
+Basic hello world repo
